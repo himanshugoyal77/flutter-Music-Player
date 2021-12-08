@@ -1,0 +1,37 @@
+[
+    {
+        "rating": "4.6",
+        "title": "Weathering With You",
+        "text": "Horishima",
+        "img1": "assets/img/Weathering1.jpg",
+        "img2": "assets/img/Weathering2.jpg"
+    },
+    {
+        "rating": "4.8",
+        "title": "Your Name",
+        "text": "Nishimiya Taki",
+        "img1": "assets/img/YourName1.jpg",
+        "img2": "assets/img/YourName2.jpg"
+    },
+    {
+        "rating": "4.3",
+        "title": "I Want To Eat Your Pancreas",
+        "text": "Kitretsu",
+        "img1": "assets/img/Iwant1.jpg",
+        "img2": "assets/img/Iwant2.jpg"
+    },
+    {
+        "rating": "4.5",
+        "title": "Your Lie In April",
+        "text": "Nishimiya otaku",
+        "img1": "assets/img/Yourlie1.jpg",
+        "img2": "assets/img/Youlie2.jpg"
+    },
+    {
+        "rating": "4.4",
+        "title": "A Silent Voice",
+        "text": "My Favraite",
+        "img1": "assets/img/SilentV1.jpg",
+        "img2": "assets/img/Silentv2.jpg"
+    }
+]
